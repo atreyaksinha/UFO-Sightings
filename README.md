@@ -1,5 +1,4 @@
 ## The app creates a visualization of all the UFO sightings in the United States of America and Canada.
-[Shinyapp](https://atreyasinha.shinyapps.io/myApp/)
 
 ![UFOpic](./data/map.jpg)
 
